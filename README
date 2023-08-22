@@ -1,0 +1,5 @@
+Implementation of a Pomodoro Timer application using Java's Swing library. The application features 
+dynamic timer intervals for focused work. Integrates an intuitive graphical user interface with start, 
+pause, and timer reset functionalities. Incorporates a state management system to seamlessly transition 
+between work and break periods, adhering to the Pomodoro Technique. Employed color-coded visual cues 
+for different timer phases, enhancing user experience. 
